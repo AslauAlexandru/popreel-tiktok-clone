@@ -17,8 +17,8 @@
     "debounce": "^1.2.1",
     "image-js": "^0.35.4",
     "moment": "^2.29.4",
-    "next": "13.4.19",
-    "postcss": "8.4.28",
+    "next": "^15.1.6",
+    "postcss": "^8.5.1",
     "react": "18.2.0",
     "react-advanced-cropper": "^0.19.3",
     "react-dom": "18.2.0",
@@ -33,4 +33,3 @@
     "raw-loader": "^4.0.2"
   }
 }
-
