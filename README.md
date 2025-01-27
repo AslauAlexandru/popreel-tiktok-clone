@@ -1,4 +1,4 @@
-# Popreel: TikTok Clone
+# Week 11 Headstarter Accelerator Project 11 Popreel: TikTok Clone
 
 ## App Setup (localhost)
 
