@@ -1,6 +1,8 @@
 # Week 11 Headstarter Accelerator Project 11 Popreel: TikTok Clone
 
 ## Project statemant
+*I don't implement a smart recommendation system for what videos a user sees on their feed and I have not done the challenges.*
+
 PopReel: TikTok Clone.
 For this project, you are tasked with building a platform where users can create and share short-form video content, like TikTok.
 
@@ -19,7 +21,7 @@ For this project, imagine you are an engineer at a social media startup. You are
 - Make your recommendation system adaptive based on the user's most recent activity
 - Ensure minimal latency in the video uploads and playback
 
-I don't implement a smart recommendation system for what videos a user sees on their feed.
+
 
 ### Resources
 [TikTok's Recommendation System](
