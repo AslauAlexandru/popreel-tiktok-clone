@@ -19,6 +19,7 @@ For this project, imagine you are an engineer at a social media startup. You are
 - Make your recommendation system adaptive based on the user's most recent activity
 - Ensure minimal latency in the video uploads and playback
 
+I don't implement a smart recommendation system for what videos a user sees on their feed.
 
 ### Resources
 [TikTok's Recommendation System](
