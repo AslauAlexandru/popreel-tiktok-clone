@@ -1,6 +1,6 @@
 # Week 11 Headstarter Accelerator Project 11 Popreel: TikTok Clone
 
-## Project statemant
+## Project statement
 *I don't implement a smart recommendation system for what videos a user sees on their feed and I have not done the challenges.*
 
 PopReel: TikTok Clone.
