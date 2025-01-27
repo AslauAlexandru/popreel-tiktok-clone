@@ -74,7 +74,7 @@ NEXT_PUBLIC_BUCKET_ID=''
 NEXT_PUBLIC_PLACEHOLDER_DEAFULT_IMAGE_ID=''
 
 ```
-You can check this [video here](https://www.youtube.com/watch?v=7zLyVzItZlQ).
+Important resource and important reference, you can check this [video here](https://www.youtube.com/watch?v=7zLyVzItZlQ).
 
 ## AppWrite Schema
 
