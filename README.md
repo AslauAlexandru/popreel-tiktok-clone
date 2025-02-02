@@ -1,3 +1,7 @@
+(can maybe finish missing items in the project and edit the readme file so that your project is a complete project and not a half-baked project)
+
+
+
 # Week 11 Headstarter Accelerator Project 11 Popreel: TikTok Clone
 
 ## Project statement
