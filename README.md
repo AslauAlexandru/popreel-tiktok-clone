@@ -1,4 +1,5 @@
-(CAN MAYBE FINISH MISSING ITEMS IN THE PROJECT AND EDIT THE README FILE SO THAT YOUR PROJECT IS A COMPLETE PROJECT AND NOT A HALF-BAKED PROJECT)
+(can maybe finish missing items in the project and edit the readme file so that your project is a complete project and not a half-baked project)
+
 
 
 # Week 11 Headstarter Accelerator Project 11 Popreel: TikTok Clone
